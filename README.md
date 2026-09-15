@@ -1,1 +1,2 @@
-# Curso de extensão utfpr
+# Curso de extensão utfpr - programador web
+O repositório contém os códigos dos exercícios da disciplinas: fundamento da web...
