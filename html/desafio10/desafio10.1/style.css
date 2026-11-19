@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+}
+
+.conteine{
+    display: flex;
+    background-color: lightgreen;
+    height: 600px;
+    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item{
+    background-color: pink;
+    width: 150px;
+    height: 150px;
+}
